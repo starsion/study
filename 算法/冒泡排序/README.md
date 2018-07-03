@@ -11,7 +11,7 @@
 * 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较</br></br>
 
 ![](bubbleSort1.png)
->图片来源于网络，仅供学习使用
+>图片来源于网络，仅供学习使用,[来源处](https://www.cnblogs.com/ysocean/p/7896269.html)
 
 ## 算法实现
 参看[bubbleSort.js](https://github.com/starsion/study/blob/master/%E7%AE%97%E6%B3%95/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/bubbleSort.js)
